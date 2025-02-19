@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I’m Krishna Bhanderi, a passionate developer who loves building, learning, and exploring new technologies. I enjoy working on open-source projects, solving interesting problems, and continuously improving my skills. Currently, I’m working as a contractor at Wells Fargo, where I develop, maintain, and support existing Transfer & Pay modules.
+I’m Krishna Bhanderi, a passionate developer who loves building, learning, and exploring new technologies. I enjoy working on open-source projects, solving interesting problems, and continuously improving my skills. Currently, I’m working as a Software Engineer at Wells Fargo, where I develop, maintain, and support existing Transfer & Pay modules.
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,cpp,spring,nodejs,git,aws,eclipse,idea)](https://skillicons.dev)
 
